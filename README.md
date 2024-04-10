@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @binayaginesh
-- 👀 I’m interested in web development and programming 
+- 👀 I’m interested in web designing and development 
 - 🌱 I’m currently learning computer science (artificial intelligence)
   at muthoot institute of technology and science 
 - 📫 How to reach me binayaginesh@gmail.com
